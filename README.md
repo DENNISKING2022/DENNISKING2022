@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DENNISKING2022
-- 👀 I’m interested in ... ML and all things Java
+- 👀 I’m interested in ... ML
 - 🌱 I’m currently learning ... DNN
 - 📫 How to reach me ... dennisking2022@outlook.com
 
